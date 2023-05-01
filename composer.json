@@ -31,5 +31,7 @@
                 "CascadeSoftDeletes\\Providers\\SoftDeleteServiceProvider"
               ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
