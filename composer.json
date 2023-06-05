@@ -1,7 +1,7 @@
 {
     "name": "awais/cascade-soft-deletes",
     "type": "library",
-    "description": "The Laravel library to apply soft delete on all relation via one soft delete",
+    "description": "The Laravel library to apply soft delete on all relations via one soft delete",
     "keywords": ["framework", "laravel","soft-delete","cascade"],
     "license": "proprietary",
     "require": {
