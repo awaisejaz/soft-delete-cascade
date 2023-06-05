@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CascadeSoftDeletes\\Providers\\SoftDeleteServiceProvider"
+                "Awais\\CascadeSoftDeletes\\Providers\\SoftDeleteServiceProvider"
               ]
         }
     }
