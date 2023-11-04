@@ -1,6 +1,6 @@
 <?php
 
-namespace Awais\Providers;
+namespace Awais\CascadeSoftDeletes\Providers;
 
 use Awais\CascadeSoftDeletes\SoftDeleteScope;
 use Illuminate\Support\Facades\File;
