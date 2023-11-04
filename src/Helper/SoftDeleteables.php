@@ -1,6 +1,6 @@
 <?php
 
-namespace Awais\Helper;
+namespace Awais\CascadeSoftDeletes\Helper;
 
 class SoftDeleteables
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Awais\CascadeSoftDeletes;
+namespace Awais\CascadeSoftDeletes\CascadeSoftDeletes;
 
-use Awais\Helper\SoftDeleteables;
+use Awais\CascadeSoftDeletes\Helper\SoftDeleteables;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Scope;

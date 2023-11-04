@@ -1,8 +1,8 @@
 <?php
 
-namespace Awais\CascadeSoftDeletes;
+namespace Awais\CascadeSoftDeletes\CascadeSoftDeletes;
 
-use Awais\Exceptions\CascadeSoftDeleteException;
+use Awais\CascadeSoftDeletes\Exceptions\CascadeSoftDeleteException;
 use Illuminate\Database\Eloquent\Relations\Relation;
 
 trait CascadeSoftDeletes

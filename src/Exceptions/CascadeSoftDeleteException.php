@@ -1,6 +1,6 @@
 <?php
 
-namespace Awais\Exceptions;
+namespace Awais\CascadeSoftDeletes\Exceptions;
 
 use Exception;
 use Illuminate\Support\Str;

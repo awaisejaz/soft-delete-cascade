@@ -2,7 +2,7 @@
 
 namespace Awais\CascadeSoftDeletes\Providers;
 
-use Awais\CascadeSoftDeletes\SoftDeleteScope;
+use Awais\CascadeSoftDeletes\CascadeSoftDeletes\SoftDeleteScope;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\ServiceProvider;
 
