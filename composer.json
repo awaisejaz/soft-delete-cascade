@@ -5,7 +5,7 @@
     "keywords": ["framework", "laravel","soft-delete","cascade"],
     "license": "proprietary",
     "require": {
-        "php": "^8.1",
+        "php": "^8.0",
         "illuminate/support": "^6.9|^7.0|^8.0|^9.0",
         "illuminate/database": "^6.9|^7.0|^8.0|^9.0"
     },
